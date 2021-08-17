@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0664d6ce-a19f-4052-8f26-785cff45aae9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Vue Single File Component" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1vLI0AqAimJMbxjZZFx27pUNPyH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/alice/public" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\html\2021.6.19html\mononobealice\alice\src\assets\sounds" />
+      <recent name="F:\html\2021.6.19html\mononobealice\alice\src\assets\audio" />
+      <recent name="F:\html\2021.6.19html\mononobealice\alice\src\assets\imgseccreat" />
+      <recent name="F:\html\2021.6.19html\mononobealice\alice\src\assets\imghome" />
+      <recent name="F:\html\2021.6.19html\mononobealice\alice\src\assets\img" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\html\2021.6.19html\mononobealice\alice\public" />
+      <recent name="F:\html\2021.6.19html\mononobealice\alice\src\assets\audio" />
+      <recent name="F:\html\2021.6.19html\mononobealice\alice\src\assets\imgRecommend" />
+      <recent name="F:\html\2021.6.19html\mononobealice\alice\src\assets\picture" />
+      <recent name="F:\html\2021.6.19html\mononobealice\alice\src\js" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0664d6ce-a19f-4052-8f26-785cff45aae9" name="Default Changelist" comment="" />
+      <created>1626334717707</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626334717707</updated>
+      <workItem from="1626334718750" duration="11589000" />
+      <workItem from="1626435223415" duration="41000" />
+      <workItem from="1626495955872" duration="3507000" />
+      <workItem from="1626513803664" duration="8633000" />
+      <workItem from="1626534324997" duration="2940000" />
+      <workItem from="1626684127174" duration="5303000" />
+      <workItem from="1626700165386" duration="7935000" />
+      <workItem from="1626761279082" duration="7017000" />
+      <workItem from="1626777328819" duration="11430000" />
+      <workItem from="1626958348703" duration="2825000" />
+      <workItem from="1627093584804" duration="7181000" />
+      <workItem from="1627177801539" duration="26919000" />
+      <workItem from="1627289688951" duration="12592000" />
+      <workItem from="1627371814209" duration="4412000" />
+      <workItem from="1627389834129" duration="4304000" />
+      <workItem from="1627609057914" duration="11333000" />
+      <workItem from="1627643664852" duration="9077000" />
+      <workItem from="1627734002174" duration="1049000" />
+      <workItem from="1627745981793" duration="1995000" />
+      <workItem from="1627817319581" duration="4396000" />
+      <workItem from="1627872137832" duration="8674000" />
+      <workItem from="1627890144996" duration="5663000" />
+      <workItem from="1627903768809" duration="5763000" />
+      <workItem from="1627986543732" duration="10952000" />
+      <workItem from="1628064795431" duration="16569000" />
+      <workItem from="1628128379237" duration="12793000" />
+      <workItem from="1628155197077" duration="10687000" />
+      <workItem from="1628178659148" duration="15680000" />
+      <workItem from="1628248094009" duration="7852000" />
+      <workItem from="1628303614731" duration="14396000" />
+      <workItem from="1628332512050" duration="2763000" />
+      <workItem from="1628343182988" duration="5233000" />
+      <workItem from="1628431505550" duration="5551000" />
+      <workItem from="1628509975600" duration="8553000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1626529424391">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1626529424391" />
+    <state x="270" y="57" key="SettingsEditor" timestamp="1627094322715">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1627094322715" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1627990355411">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1627990355411" />
+  </component>
+</project>

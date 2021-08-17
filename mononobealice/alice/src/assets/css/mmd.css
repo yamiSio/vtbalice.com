@@ -1,0 +1,49 @@
+.creat2{
+    width: 100%;
+    height: 600px;
+    display: flex;
+}
+.iframeleft3{
+    margin-left: 80px;
+    margin-top: 10px;
+}
+.iframe1{
+    width: 800px;
+    height: 500px;
+}
+iframe{
+    width: 100%;
+    height: 100%;
+}
+.ifrmetitel1{
+    text-align: center;
+    font-family: 华文行楷;;
+    /*font-size: 30px;*/
+}
+.creat4{
+    width: 100%;
+    height: 500px;
+}
+
+.iframeright4{
+    width: 800px;
+    height: 500px;
+}
+.iframe3{
+    width: 800px;
+    height: 500px;
+    float: right;
+    margin-right: 80px;
+}
+
+.videoyub{
+    /*margin-top: -100px;*/
+}
+.dataform{
+    text-align: right;
+    margin-right: 80px;
+}
+
+.dataformname:hover{
+    color: darkorchid;
+}
