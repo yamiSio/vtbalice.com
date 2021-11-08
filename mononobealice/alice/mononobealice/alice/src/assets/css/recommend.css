@@ -1,0 +1,139 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.body{
+    width: 100%;
+    height: 100%;
+}
+.introduce{
+    display: flex;
+    width: 100%;
+    overflow: hidden;
+    /*height: 800px;*/
+}
+introduce1{
+    display: flex;
+    width: 100%;
+    margin-top: 100px;
+}
+.left{
+    width: 550px;
+    float: left;
+    display: block;
+    margin-left: 150px;
+    margin-top: 50px;
+}
+.xaxin{
+    /*padding-left: 150px;*/
+    /*padding-top: 50px;*/
+    width: 540px;
+    border: 2px solid white;
+}
+.imp{
+    text-decoration: none;
+    color: deeppink;
+}
+.imp:hover{
+    color: #9932cc;
+}
+.imp1{
+    text-decoration: none;
+    color: blue;
+}
+.imp1:hover{
+    color: #9932cc;
+}
+.right{
+    width: 800px;
+    float: right;
+    display: block;
+}
+.left1{
+    width: 700px;
+    float: left;
+    display: block;
+}
+.right1{
+    width: 700px;
+    float: right;
+    display: block;
+    margin-top: 200px;
+    margin-right: 30px;
+    border: 2px solid white;
+}
+.xaxin1{
+    width: 100%;
+}
+.title{
+    width: 600px;
+    height: 200px;
+}
+.font{
+    font-size: 40px;
+    text-align: center;
+    margin-left: 150px;
+    line-height: 200px;
+}
+.font1{
+    font-family: 华文楷体;
+    font-size: 20px;
+    text-align: center;
+}
+.font2{
+    font-family: 华文楷体;
+    font-size: 40px;
+    text-align: center;
+    margin-left: 150px;
+    line-height: 200px;
+}
+.title1{
+    width: 650px;
+    height: 150px;
+}
+.conent{
+    width: 650px;
+    height: 150px;
+    text-indent: 2em;
+    text-align:left;
+    font-size: 17px;
+    margin-left: 60px;
+}
+.soso{
+    text-decoration: none;
+    color: blue;
+}
+.soso:hover{
+    color: #9932cc;
+}
+.iframe{
+    width: 800px;
+    height: 550px;
+}
+.iframe1{
+    margin-left: 30px;
+    margin-top: 30px;
+    width: 720px;
+    height: 560px;
+}
+.conent1{
+    width: 650px;
+    height: 100px;
+    text-indent: 2em;
+    text-align:left;
+    font-size: 17px;
+    margin-left: 30px;
+}
+iframe{
+    width: 100%;
+    height: 100%;
+}
+.contr{
+    color: blue;
+}
+.contr:hover{
+    cursor: pointer;
+}
+.disp{
+    display: flex;
+}

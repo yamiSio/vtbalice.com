@@ -13,8 +13,8 @@
     justify-content: center;
     border: none;
     outline: none;
-    /*background-image: url("../sounds/musicnewbg.gif");*/
-    background-image: url("../sounds/Alice85009146_p0.jpg");
+    /*background-image: url("../sounds/musicnewbg.webp");*/
+    background-image: url("../sounds/Alice85009146_p0.webp");
     background-size: cover;
     background-position-y: -200px;
     /*background: #888888;*/
@@ -37,7 +37,7 @@
     /*background: rgba(0,0,0,0.4);*/
     /*background: rgba(253,203,110,1);*/
     background: #66ccff;
-    /*background-image: url("../img/alicedagu.gif");*/
+    /*background-image: url("../img/alicedagu.webp");*/
     /*background-size: cover;*/
     /*background-position-x: -15px;*/
     text-shadow: 0 0 .5rem black;
@@ -46,7 +46,7 @@
 .playing {
     transform: scale(1.23);
     border-color: #9b59b6;
-    background-image: url("../img/alicedagu.gif");
+    background-image: url("../img/alicedagu.webp");
     background-size: cover;
     background-position-x: -15px;
     /*box-shadow: 0 0 1rem #ffc600;*/
@@ -54,7 +54,7 @@
 .happy{
     transform: scale(1.23);
     border-color: #ffc600;
-    background-image: url("../img/alicedagu.gif");
+    background-image: url("../img/alicedagu.webp");
     background-size: cover;
     background-position-x: -15px;
     /*box-shadow: 0 0 1rem #ffc600;*/
@@ -63,7 +63,7 @@
     transform: scale(1.23);
     border-color: #1abc9c;
     /*box-shadow: 0 0 1rem #ffc600;*/
-    background-image: url("../img/alicedagu.gif");
+    background-image: url("../img/alicedagu.webp");
     background-size: cover;
     background-position-x: -15px;
 }
@@ -71,7 +71,7 @@
     transform: scale(1.23);
     border-color: #2ecc71;
     /*box-shadow: 0 0 1rem #ffc600;*/
-    background-image: url("../img/alicedagu.gif");
+    background-image: url("../img/alicedagu.webp");
     background-size: cover;
     background-position-x: -15px;
 }
@@ -79,7 +79,7 @@
     transform: scale(1.23);
     border-color: #e67e22;
     /*box-shadow: 0 0 1rem #ffc600;*/
-    background-image: url("../img/alicedagu.gif");
+    background-image: url("../img/alicedagu.webp");
     background-size: cover;
     background-position-x: -15px;
 }

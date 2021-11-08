@@ -64,9 +64,9 @@ img{
     text-align:left;
     font-size: 16px;
 }
-span{
-    text-decoration: line-through;
-}
+/*span{*/
+/*    text-decoration: line-through;*/
+/*}*/
 
 .undelin{
     text-decoration: none;
@@ -74,7 +74,17 @@ span{
     position: relative;
 }
 
-a{
+.bei{
+    position: relative;
+    text-align: center;
+    width: 80px;
+}
+.bei a{
+    text-decoration: none;
+    color: black;
+}
+
+.undelin a{
     text-decoration: none;
     color: blue;
 }
@@ -187,6 +197,11 @@ iframe{
     /*font-family:华文宋体;*/
     font-size: 13px;
     text-align: center;
+}
+.footercenter img{
+    width: 20px;
+    height: 20px;
+    margin: -6px 0;
 }
 /*<p class="ceshi1">兴趣使然</p>*/
 /*.ceshi1{*/

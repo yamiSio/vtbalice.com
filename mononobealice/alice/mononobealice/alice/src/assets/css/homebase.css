@@ -1,0 +1,194 @@
+.home{
+    width: 100%;
+    height: 100%;
+}
+.gotop{
+    position: fixed;
+    /*	固定定位*/
+    right: 40px;
+    bottom: 40px;
+    width: 30px;
+    height:48px;
+    opacity: 1;
+    transition: all 1s;
+}
+.gotop:hover{
+    cursor: pointer;
+}
+/*.silo{*/
+/*  width: 100%;*/
+/*  height: 330px;*/
+/*  background: transparent;*/
+/*}*/
+
+/*.content{*/
+/*overflow:auto;如果内容被修建，则出现滚动条*/
+/*  overflow:auto;*/
+
+/*  display: flex;*/
+/*}*/
+.content-introduce{
+    width: 100%;
+    height: 1070px;
+    /*position: absolute;*/
+    display: flex;
+}
+.introduce{
+    width: 800px;
+    height: 1070px;
+    float: left;
+    display: block;
+}
+img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    /*width: 700px;*/
+    /*height: 930px;*/
+}
+
+.chat{
+    width: 700px;
+    height: 480px;
+    overflow: hidden;
+    word-break:break-all;
+}
+.charhead{
+    width:700px;
+    height: 265px;
+}
+
+
+.chatcont{
+    text-indent: 2em;
+    text-align:left;
+    font-size: 16px;
+}
+span{
+    text-decoration: line-through;
+}
+
+.undelin{
+    text-decoration: none;
+    width: 80px;
+    position: relative;
+}
+
+a{
+    text-decoration: none;
+    color: blue;
+}
+.undelin:before {
+    position: absolute;
+    content: "";
+    top: 100%;
+    left: 50%;
+    width: 0;
+    height: 1px;
+    background: #9932cc;
+    /*border-bottom:1px solid #42b983;*/
+    margin: 0;
+    transition: all .8s;
+}
+.undelin:hover:before{
+    left:0;
+    width: 100%;
+}
+.undeli:hover{
+    color: #9932cc;
+    /*color: #e67e22;*/
+}
+.lianjie{
+    width: 30px;
+    height: 30px;
+    top: 50px;
+}
+.links{
+    height: 160px;
+    align-items: center;
+    /*justify-content: center;*/
+}
+.links-conatn{
+    padding-top: 50px;
+    height: 60px;
+    text-align: center;
+}
+.sola{
+    text-decoration: none;
+    height: 30px;
+}
+
+.sola2{
+    text-decoration: none;
+    margin-right: -50px;
+}
+
+.ifrmetitel{
+    text-align: center;
+    font-family: 华文行楷;
+    font-size: 20px;
+}
+
+.iframe{
+    width: 700px;
+    height: 500px;
+}
+iframe{
+    width: 100%;
+    height: 100%;
+}
+.ifrmemiddle{
+    width: 100%;
+    height: 1200px;
+
+    display: flex;
+}
+.iframeleft{
+    margin-left: 50px;
+    float: left;
+}
+.iframeright{
+    width: 800px;
+    height: 1100px;
+    background: url("../imghome/Aliceku 69941326.png");
+    background-size: cover;
+    margin-left: 60px;
+    margin-top: 100px;
+    /*background: no-repeat;*/
+    /*float: right;*/
+}
+.padanh{
+    /*height: 700px;*/
+    display: flex;
+}
+.padanhbig{
+    width: 200px;
+    height: 200px;
+    margin-top: 100px;
+    margin-left: 280px;
+}
+.padanhbig2{
+    width: 200px;
+    height: 200px;
+    margin-top: 100px;
+    margin-right: 150px;
+}
+.midd{
+    float: left;
+    text-align: center;
+    margin:0 auto;
+}
+.footer{
+    margin-top: 50px;
+    /*background-color: rgba(40,42,44,.4);*/
+    width: 100%;
+}
+.footercenter{
+    /*font-family:华文宋体;*/
+    font-size: 13px;
+    text-align: center;
+}
+/*<p class="ceshi1">兴趣使然</p>*/
+/*.ceshi1{*/
+/*  font-family: 华文行楷;*/
+/*}*/

@@ -1,7 +1,7 @@
 <template>
 <div class="body">
   <div>
-    <img v-show="btnflag" class="gotop" src="../assets/imghome/to-top.png" @click="backTop">
+    <img v-show="btnflag" class="gotop" src="../assets/imghome/to-top.webp" @click="backTop">
   </div>
   <div class="create1">
     <div class="ifrmemiddle1">
@@ -27,7 +27,7 @@
       </div>
 
       <div class="iframeright1">
-        <!--          <img src="../assets/imghome/Aliceqicoco1602ingok.png" alt="">-->
+        <!--          <img src="../assets/imghome/Aliceqicoco1602ingok.webp" alt="">-->
       </div>
     </div>
   </div>
@@ -36,7 +36,7 @@
     <div class="ifrmemiddle1">
 
       <div class="iframeright2">
-        <!--          <img src="../assets/imghome/Aliceqicoco1602ingok.png" alt="">-->
+        <!--          <img src="../assets/imghome/Aliceqicoco1602ingok.webp" alt="">-->
       </div>
       <div class="iframeleft2">
         <div class="ifrmetitel1">

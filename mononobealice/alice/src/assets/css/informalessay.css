@@ -10,7 +10,7 @@
     text-align: center;
     /*align-items: center;*/
     /*justify-content: center;*/
-    background-image:url("../sounds/nightnew.jpg") ;
+    background-image:url("../sounds/nightnew.webp") ;
     background-size:cover;
     /*background-repeat:no-repeat;    图片不重复*/
     /*background-attachment: fixed;    !*图片跟随页面大小变化*!*/
@@ -70,7 +70,7 @@ p{
 /*.sw{*/
 /*    width: 100px;*/
 /*    height: 50px;*/
-/*    background-image: url("../sounds/nightnew.jpg");*/
+/*    background-image: url("../sounds/nightnew.webp");*/
 /*    background-size:cover;*/
 
 /*}*/

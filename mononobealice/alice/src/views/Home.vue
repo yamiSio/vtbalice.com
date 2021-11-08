@@ -19,20 +19,20 @@
     <div class="silo"></div>
     <div class="content">
       <div>
-        <img v-show="btnflag" class="gotop" src="../assets/imghome/to-top.png" @click="backTop">
+        <img v-show="btnflag" class="gotop" src="../assets/imghome/to-top.webp" @click="backTop">
       </div>
       <div class="content-introduce">
         <div class="introduce">
 
-          <img src="../assets/imghome/Alicepuke1.png" alt="JS">
+          <img src="../assets/imghome/Alicepuke1.webp" alt="JS">
         </div>
 <!--        <div>-->
-<!--          <img v-show="btnflag" class="gotop" src="../assets/imghome/to-top.png" @click="backTop">-->
+<!--          <img v-show="btnflag" class="gotop" src="../assets/imghome/to-top.webp" @click="backTop">-->
 <!--        </div>-->
 
         <div class="biliiframe">
           <div class="chat">
-            <div class="charhead"><img src="../assets/imghome/Alicename1.png" alt="" ></div>
+            <div class="charhead"><img src="../assets/imghome/Alicename1.webp" alt="" ></div>
             <p class="chatcont">16岁，是JK!，力速双A，和兔蝠签订了契约。电音达人，因其清楚和可爱的性格，常常被人
               称为"天使"，<span> 个人势VTB</span><span class="undelin" ><a href="https://www.nijisanji.jp/members" class="undeli" target="_blank">にじさんじ</a></span>所属二期生。
               直播风格自由，随心所欲。在直播间不仅有杂谈，歌回，JSMR，吉他弹唱，原神甚至还有拳击，健身环，开卡车，只狼，恐怖游戏，与戴夫聊天，云旅游，早上叫醒服务等等。欢迎前来！</p>
@@ -83,7 +83,7 @@
         </div>
 
         <div class="iframeright">
-<!--          <img src="../assets/imghome/Aliceqicoco1602ingok.png" alt="">-->
+<!--          <img src="../assets/imghome/Aliceqicoco1602ingok.webp" alt="">-->
       </div>
       </div>
       <div class="ifrmetitel">
@@ -92,7 +92,7 @@
       </div>
       <div class="padanh">
         <div class="padanhbig">
-          <img src="../assets/imghome/pandah.png" alt="">
+          <img src="../assets/imghome/pandah.webp" alt="">
         </div>
         <div class="iframe midd">
 
@@ -100,7 +100,7 @@
                 scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
          </div>
         <div  class="padanhbig2">
-          <img src="../assets/imghome/pandah1.png" alt="">
+          <img src="../assets/imghome/pandah1.webp" alt="">
         </div>
       </div>
 
@@ -112,13 +112,21 @@
         <div class="footercenter">本页面的三张图片的来源分别为P站的:
           <span class="undelin" ><a href="https://www.pixiv.net/artworks/77121029" class="undeli" target="_blank">@灵梦家的仓鼠 </a></span>
           <span class="undelin" ><a href="https://www.pixiv.net/artworks/77066029" class="undeli" target="_blank">@The Des Alizes </a></span>
-          <span class="undelin" ><a href="https://www.pixiv.net/artworks/69941326" class="undeli" target="_blank">@かごとめ</a></span>
+          <span class="undelin" ><a href="https://www.pixiv.net/artworks/69941326" class="undeli" target="_blank">@かごとめ</a></span><br>
+
         </div>
         <br>
-        <div class="footercenter">记:2021.7.26</div>
+        <div class="footercenter">
+        <span class="bei"><a href="https://beian.miit.gov.cn" class="undeli" target="_blank">粤ICP备2021118044号</a></span>
+        </div>
         <br>
-
-
+        <div class="footercenter" @click="beian">
+<!--          <img src="../assets/imghome/beianinfo.webp" alt="" class="beianbig">-->
+          <span class="bei">
+          <a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=44130202001022" class="undeli" target="_blank"> <img src="../assets/imghome/beianinfo.webp" alt="" class="beianbig">粤公网安备 44130202001022号</a>
+        </span>
+        </div>
+        <br>
       </div>
 
     </div>

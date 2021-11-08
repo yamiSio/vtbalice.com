@@ -29,12 +29,14 @@
     <audio ref="submenufive" src="../assets/audio/what.mp3" :loop="juge"></audio>
     <audio ref="submenueleven" src="../assets/audio/backhome.mp3" :loop="juge"></audio>
     <audio ref="submenutwelve" src="../assets/audio/husband.mp3" :loop="juge"></audio>
+    <audio ref="submenuthirteen" src="../assets/audio/gege.mp3" :loop="juge"></audio>
     <button  class="light" id="buttonname" @click="submenu1" >Aliceはloli</button>
     <button  class="light" @click="submenu2">吵死了</button>
     <button  class="light" @click="submenu4">mua</button>
     <button  class="light" @click="submenu5">为什么</button>
     <button  class="light" @click="submenu11">回家三问</button>
     <button  class="light" @click="submenu12">老公</button>
+    <button  class="light" @click="submenu13">哥哥</button>
   </div>
   <br>
   <br>
@@ -243,7 +245,16 @@ name: "Sound",
         sub2.pause();// 暂停
       }
     },
-
+    submenu13(){
+      const sub2=this.$refs.submenuthirteen;
+      // console.log(sub2);
+      if (sub2.paused) {
+        sub2.currentTime=0;
+        sub2.play();  // 播放
+      } else {
+        sub2.pause();// 暂停
+      }
+    },
 }
 }
 </script>

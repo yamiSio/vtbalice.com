@@ -1,0 +1,114 @@
+.body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.keys {
+    width: 100%;
+    display: flex;
+    flex: 1;
+    min-height: 100vh;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    outline: none;
+    /*background-image: url("../sounds/musicnewbg.gif");*/
+    background-image: url("../sounds/Alice85009146_p0.jpg");
+    background-size: cover;
+    background-position-y: -200px;
+    /*background: #888888;*/
+    /*background-position-y: -500px;*/
+}
+
+.key {
+    /*transform-style:preserve-3d;*/
+    /*transform:  rotateZ(90deg);*/
+    /*perspective: 500px;*/
+    border: .4rem solid #888888;
+    border-radius: 50%;
+    margin: 1rem;
+    font-size: 1.5rem;
+    padding: 1rem .5rem;
+    transition: all .1s ease;
+    width: 10rem;
+    text-align: center;
+    color: white;
+    /*background: rgba(0,0,0,0.4);*/
+    /*background: rgba(253,203,110,1);*/
+    background: #66ccff;
+    /*background-image: url("../img/alicedagu.gif");*/
+    /*background-size: cover;*/
+    /*background-position-x: -15px;*/
+    text-shadow: 0 0 .5rem black;
+}
+
+.playing {
+    transform: scale(1.23);
+    border-color: #9b59b6;
+    background-image: url("../img/alicedagu.gif");
+    background-size: cover;
+    background-position-x: -15px;
+    /*box-shadow: 0 0 1rem #ffc600;*/
+}
+.happy{
+    transform: scale(1.23);
+    border-color: #ffc600;
+    background-image: url("../img/alicedagu.gif");
+    background-size: cover;
+    background-position-x: -15px;
+    /*box-shadow: 0 0 1rem #ffc600;*/
+}
+.normal{
+    transform: scale(1.23);
+    border-color: #1abc9c;
+    /*box-shadow: 0 0 1rem #ffc600;*/
+    background-image: url("../img/alicedagu.gif");
+    background-size: cover;
+    background-position-x: -15px;
+}
+.sad{
+    transform: scale(1.23);
+    border-color: #2ecc71;
+    /*box-shadow: 0 0 1rem #ffc600;*/
+    background-image: url("../img/alicedagu.gif");
+    background-size: cover;
+    background-position-x: -15px;
+}
+.sad1{
+    transform: scale(1.23);
+    border-color: #e67e22;
+    /*box-shadow: 0 0 1rem #ffc600;*/
+    background-image: url("../img/alicedagu.gif");
+    background-size: cover;
+    background-position-x: -15px;
+}
+
+kbd {
+    display: block;
+    font-size: 4rem;
+}
+
+.sound {
+    font-size: 1.2rem;
+    text-transform: uppercase;
+    /*letter-spacing: .1rem;*/
+    color: #66ccff;
+}
+.dagu{
+    display: none;
+    /*visibility:hidden;*/
+    top: 600px;
+    left: 40px;
+    width: 100px;
+    position: absolute;
+    animation: trfodagu 1s  ease-out infinite;
+}
+@keyframes trfodagu {
+    0%{
+        top:600px
+    }
+    100%{
+        top:500px
+    }
+}

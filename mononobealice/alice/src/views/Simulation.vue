@@ -1,9 +1,9 @@
 <template>
 <div class="body">
 <!--  tabindex="1" autofocus-->
-  <button class="keys" id="button" tabindex="1" autofocus>
+  <button class="keys" id="button" >
     <div data-key="65" class="key" >
-      <img class="dagu" src="../assets/img/alicedagunew.gif" alt="gu">
+      <img class="dagu" src="../assets/img/alicedagunew.webp" alt="gu">
       <kbd>A</kbd>
       <span class="sound">clap</span>
     </div>

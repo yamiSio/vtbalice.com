@@ -2,7 +2,7 @@
 <div class="body">
   <div class="introduce">
     <div class="left">
-      <img @click="opp" class="xaxin" src="../assets/imgRecommend/70129576_p0_master1200.jpg" alt="">
+      <img @click="opp" class="xaxin" src="../assets/imgRecommend/70129576_p0_master1200.webp" alt="">
       <br>
     </div>
 
@@ -52,7 +52,7 @@
     </div>
 
     <div class="right1">
-      <img @click="opb" class="xaxin1" src="../assets/imgRecommend/yami.png" alt="">
+      <img @click="opb" class="xaxin1" src="../assets/imgRecommend/yami.webp" alt="">
     </div>
   </div>
 
